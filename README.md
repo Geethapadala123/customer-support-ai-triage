@@ -6,6 +6,10 @@ An AI-powered customer support chatbot with a premium dark-mode chat interface, 
 ![Flask](https://img.shields.io/badge/Flask-3.0-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 🌐 Live Demo
+
+[🚀 View Live Project](https://customer-support-ai-triage-1.onrender.com)
+
 ## ✨ Features
 
 - **Smart FAQ Matching** — TF-IDF + cosine similarity with bigram support to match user queries against 23 FAQ entries across 7 categories.
